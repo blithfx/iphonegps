@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+iosLaunchConfigurationAttributes/ATTR_MINIFY=true
+iosLaunchConfigurationAttributes/ATTR_PROJECT_NAME=Distance
+iosLaunchConfigurationAttributes/appid=com.brianlittle.distance
+iosLaunchConfigurationAttributes/certificate=Graham Little (7FPPVQB4PL)
+iosLaunchConfigurationAttributes/keychain=
+iosLaunchConfigurationAttributes/sdk_version=7.0.3
+iosLaunchConfigurationAttributes/uuid=D9784E70-8E6E-4406-9ABA-79933CD8AB32
+provisioning_profiles/development/D7346858-C69A-4E36-AF9C-F61CD92C602E/appid=com.brianlittle.*
+provisioning_profiles/development/D7346858-C69A-4E36-AF9C-F61CD92C602E/name=jean
+provisioning_profiles/development/D7346858-C69A-4E36-AF9C-F61CD92C602E/uuid=D7346858-C69A-4E36-AF9C-F61CD92C602E
+provisioning_profiles/development/D9784E70-8E6E-4406-9ABA-79933CD8AB32/appid=com.brianlittle.*
+provisioning_profiles/development/D9784E70-8E6E-4406-9ABA-79933CD8AB32/name=Brians Profile
+provisioning_profiles/development/D9784E70-8E6E-4406-9ABA-79933CD8AB32/uuid=D9784E70-8E6E-4406-9ABA-79933CD8AB32

@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+iosLaunchConfigurationAttributes/ATTR_MINIFY=true
+iosLaunchConfigurationAttributes/ATTR_PROJECT_NAME=Pedometer
+iosLaunchConfigurationAttributes/appid=com.brianlittle.pedometer
+iosLaunchConfigurationAttributes/certificate=Graham Little (7FPPVQB4PL)
+iosLaunchConfigurationAttributes/keychain=
+iosLaunchConfigurationAttributes/sdk_version=7.0.3
+iosLaunchConfigurationAttributes/uuid=D9784E70-8E6E-4406-9ABA-79933CD8AB32
+provisioning_profiles/development/D9784E70-8E6E-4406-9ABA-79933CD8AB32/appid=com.brianlittle.*
+provisioning_profiles/development/D9784E70-8E6E-4406-9ABA-79933CD8AB32/name=Brians Profile
+provisioning_profiles/development/D9784E70-8E6E-4406-9ABA-79933CD8AB32/uuid=D9784E70-8E6E-4406-9ABA-79933CD8AB32
